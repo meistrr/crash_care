@@ -200,6 +200,6 @@ $i++;
 
 </table>
 <br>
-<h5>Loot array generator by Saitek! Love and peace <3 </h5>
+<h5>Loot array generator by meistrr! Love and peace <3 </h5>
 </body>
 </html>
